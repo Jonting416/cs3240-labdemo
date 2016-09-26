@@ -1,2 +1,2 @@
 def number(num):
-    print(5)
+    return num + 5
